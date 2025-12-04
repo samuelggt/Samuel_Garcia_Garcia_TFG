@@ -1,4 +1,4 @@
-# Samuel_Garcia_Garcia_Codigo_TFG
+# Samuel_Garcia_Garcia_TFG
 Repositorio que contiene los códigos que se han diseñado para el trabajo de fin de grado de matemáticas de la Universidad de Zaragoza: Selección de características y modelos predictivos para el diagnóstico clínico mediante ultrasonido, Samuel García García, Junio 2025.
 
 El archivo "Modelo Variables Electrodiagnósticas.R" contiene el código para el diseño y análisis de un modelo de regresión logística basado en las cinco variables electrodiagnósticas, utilizando validación cruzada leave-one-out (LOOCV).
